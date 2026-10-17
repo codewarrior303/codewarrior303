@@ -70,12 +70,12 @@
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats-fast.vercel.app/api?username=codewarrior-ahnaf&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" />
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=codewarrior-ahnaf&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="165em" src="https://github-readme-stats-fast.vercel.app/api?username=codewarrior303&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" />
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=codewarrior303&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codewarrior-ahnaf&theme=tokyonight&utc=6" alt="Activity Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codewarrior303&theme=tokyonight&utc=6" alt="Activity Graph" />
 </p>
 
 ---
