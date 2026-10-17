@@ -20,7 +20,7 @@
 🌐 Portfolio 👉 [codewarrior-ahnaf.github.io/abir](https://codewarrior-ahnaf.github.io/abir)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=codewarrior-ahnaf&color=007ec6" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=codewarrior303&color=007ec6" alt="Profile views" />
 </p>
 
 ---
