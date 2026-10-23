@@ -17,7 +17,7 @@
 - 📱 Also exploring: **Android App Development**
 - 📫 Reach me at: **abirahnafshahriar@gmail.com**
 
-🌐 Portfolio 👉 [abir-phi.vercel.app](https://abir-phi.vercel.app)
+🌐 Portfolio 👉 [ahnafabir.vercel.app](https://ahnafabir.vercel.app)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=codewarrior303&color=007ec6" alt="Profile views" />
@@ -83,7 +83,7 @@
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://codewarrior303.github.io/abir/" target="_blank">
+  <a href="https://ahnafabir.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-cb16fd?style=for-the-badge&logo=Firefox&logoColor=white" alt="Portfolio"/>
   </a>
   &nbsp;
