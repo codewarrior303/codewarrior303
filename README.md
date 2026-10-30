@@ -61,7 +61,7 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,ubuntu,git,github,vscode,vercel,expo,figma,postman&perline=6" alt="Tools & Version Control" />
+    <img src="https://skillicons.dev/icons?i=linux,ubuntu,git,github,vscode,vercel,figma,postman&perline=6" alt="Tools & Version Control" />
   </a>
 </p>
 
