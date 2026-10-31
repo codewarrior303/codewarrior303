@@ -51,7 +51,7 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,supabase" alt="Database Tech" />
+    <img src="https://skillicons.dev/icons?i=mongodb,supabase,firebase" alt="Database Tech" />
   </a>
 </p>
 
