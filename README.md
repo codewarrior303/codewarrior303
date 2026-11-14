@@ -37,21 +37,21 @@
 
 <br/>
 
-#### ⚙️ **Backend & Authentication (Learning)**
+#### ⚙️ **Backend & Authentication**
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,py,nodejs,express" alt="Backend Tech" />
+    <img src="https://skillicons.dev/icons?i=c,py,nodejs,express,php,laravel" alt="Backend Tech" />
   </a>
 </p>
 
 <br/>
 
-#### 🗄️ **Database & Data Modeling (Learning)**
+#### 🗄️ **Database & Data Modeling**
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,supabase,firebase" alt="Database Tech" />
+    <img src="https://skillicons.dev/icons?i=mongodb,supabase,firebase,mysql" alt="Database Tech" />
   </a>
 </p>
 
